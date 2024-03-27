@@ -1,0 +1,330 @@
+{
+  "info": {
+    "name": "Sunil Kumar H S",
+    "tagLine": "🚀 React.Js Developer | Frontend Web Developer | Firebase Enthusiast | Java Maestro 🌐",
+    "imgurl": "https://png.pngtree.com/png-clipart/20220213/original/pngtree-avatar-bussinesman-man-profile-icon-vector-illustration-png-image_7268049.png",
+    "address": "Bengaluru, Karnataka, India",
+    "copyRights": "© Copyright ©2024 All rights reserved | This template is created by ",
+    "navLinks": [
+      {
+        "id": "home",
+        "title": "HOME"
+      },
+      {
+        "id": "about",
+        "title": "ABOUT"
+      },
+      {
+        "id": "skills",
+        "title": "SKILLS"
+      },
+      {
+        "id": "education",
+        "title": "EDUCATION"
+      },
+      {
+        "id": "experience",
+        "title": "EXPERIENCE"
+      },
+      {
+        "id": "work",
+        "title": "WORK"
+      },
+      {
+        "id": "contact",
+        "title": "CONTACT"
+      }
+    ]
+  },
+  "home": {
+    "bgImg": "https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg",
+    "homeImg1": "https://www.multirecruit.com/wp-content/uploads/2022/05/web-developer-do.png",
+    "homeImg2": "https://media.licdn.com/dms/image/D5612AQGCh3sln69vjA/article-cover_image-shrink_720_1280/0/1666950043894?e=2147483647&v=beta&t=PZiVgCkhn84PTTHkW0XWyMQEZ1hsPkHdYa5mTnpM4qQ",
+    "greet1Line1": "Hi 👋",
+    "greet1Line2": "I'm Sunil",
+    "des1": "A passionate Software developer from India",
+    "greet2Line1": "I am",
+    "greet2Line2": "a Web Developer",
+    "des2": " Ask me about ReactJs, Redux, NodeJs, ExpressJs, Javascript, Java, HTML, CSS",
+    "about": {
+      "name": "Hello there! I'm Sunil Kumar H S, ",
+      "intro1": " a passionate web developer with a master's degree in Computer Science. With a strong foundation in both theory and practice, I thrive in the dynamic world of web development, constantly seeking opportunities to innovate and create immersive digital experiences.",
+      "intro2": "Outside of coding, I enjoy exploring new technologies, experimenting with creative side projects, and contributing to the developer community through open-source initiatives and knowledge-sharing platforms.",
+      "intro3": "I'm excited about the prospect of working on innovative projects that challenge me to push boundaries and make a positive impact. If you're looking for a dedicated web developer who's not only skilled but also enthusiastic about creating exceptional digital experiences, let's connect!",
+      "projectNum": "I am happy to know you that 20+ personal projects done sucessfully!",
+      "numDisplay": [
+        {
+          "key": "CUPS OF TEA",
+          "value": "1718"
+        },
+        {
+          "key": "PROJECTS",
+          "value": "21"
+        },
+        {
+          "key": "CLIENTS",
+          "value": "0"
+        },
+        {
+          "key": "PARTNERS",
+          "value": "0"
+        }
+      ]
+    },
+    "skills": {
+      "skillInfo1": "My expertise lies in a plethora of technologies, including JavaScript, HTML, CSS, Tailwind CSS, React.js, Redux, Firebase, Node.js, and Express.js. Whether it's crafting responsive layouts, implementing complex functionality, or optimizing performance, I enjoy the challenge of turning ideas into elegant, user-friendly interfaces.",
+      "skillInfo2": "In addition to my proficiency in web development technologies, I bring a diverse skill set encompassing programming languages such as C, C++, Core Java, and basic Python. This versatility allows me to approach problems from different angles and devise efficient solutions tailored to specific needs.",
+      "logos": [
+        {
+          "tech": "https://img.icons8.com/office/48/react.png",
+          "color": "reactColor",
+          "current": "90%",
+          "bg": "reactBg"
+        },
+        {
+          "tech": "https://img.icons8.com/color/48/redux.png",
+          "color": "reduxColor",
+          "current": "75%",
+          "bg": "reduxBg"
+        },
+        {
+          "tech": "https://img.icons8.com/color/48/nodejs.png",
+          "color": "nodeColor",
+          "current": "85%",
+          "bg": "nodeBg"
+        },
+
+        {
+          "tech": "https://img.icons8.com/color/48/firebase.png",
+          "color": "fireColor",
+          "current": "55%",
+          "bg": "fireBg"
+        },
+        {
+          "tech": "https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png",
+          "color": "javaColor",
+          "current": "85%",
+          "bg": "javaBg"
+        },
+        {
+          "tech": "https://img.icons8.com/color/48/javascript--v1.png",
+          "color": "jsColor",
+          "current": "92%",
+          "bg": "jsBg"
+        },
+        {
+          "tech": "https://img.icons8.com/color/48/html-5--v1.png",
+          "color": "htmlColor",
+          "current": "78%",
+          "bg": "htmlBg"
+        },
+        {
+          "tech": "https://img.icons8.com/color/48/bootstrap.png",
+          "color": "bootColor",
+          "current": "68%",
+          "bg": "bootBg"
+        },
+        {
+          "tech": "https://img.icons8.com/color/48/css3.png",
+          "color": "cssColor",
+          "current": "83%",
+          "bg": "cssBg"
+        },
+        {
+          "tech": "https://img.icons8.com/color/48/tailwindcss.png",
+          "color": "tailColor",
+          "current": "80%",
+          "bg": "tailBg"
+        },
+        {
+          "tech": "https://img.icons8.com/color/48/git.png",
+          "color": "gitColor",
+          "current": "65%",
+          "bg": "gitBg"
+        }
+      ]
+    },
+    "education": [
+      {
+        "title": "MASTER OF COMPUTER APPLICATION (M.C.A)",
+        "university": "Visvesvaraya Technological University, Belagavi",
+        "college": "Bangalore Institute of Technology",
+        "score": "CGPA: 7.86 / 10.0",
+        "completed": "Oct 2023 | Bangalore, IN"
+      },
+      {
+        "title": "BACHELOR OF COMPUTER APPLICATION (B.C.A)",
+        "university": "Bangalore North University, Kolar",
+        "college": "Govt. First Grade College for Boys",
+        "score": "CGPA: 7.70 / 10.0",
+        "completed": "Sept 2021 | Kolar, IN"
+      },
+      {
+        "title": "PRE-UNIVERSITY COURSE (P.U.C)",
+        "university": "Dept. of Pre-University Education, Karnataka",
+        "college": "Sahyadri PU College",
+        "score": "Percentage: 73.5%",
+        "completed": "Mar 2018 | Kolar, IN"
+      },
+      {
+        "title": "SECONDARY SCHOOL LEAVING CERTIFICATE (S.S.L.C)",
+        "university": "Karnataka Secondary Education Examination Board, Karnataka",
+        "college": "Unique International High School",
+        "score": "Percentage: 71.36%",
+        "completed": "Apr 2016 | Malur, IN"
+      }
+    ],
+    "experience": [
+      {
+        "title": "React Developer Intern",
+        "year": "Oct 2022 - Jan 2023",
+        "company": "TechieAid",
+        "location": "Bangalore",
+        "content": [
+          "As an intern focusing on ReactJS, i used moulded unique opportunity to delve into the heart of modern front-end development and work on projects that shape the future of user interfaces.",
+          "I sharpen my ReactJS skills and gain practical experience in building dynamic and responsive web applications."
+        ]
+      }
+    ],
+    "projects": {
+      "sections": ["REACT", "JAVASCRIPT", "WEB_DESIGN"],
+      "react": [
+        {
+          "bgColor": "red",
+          "title": "Netflix-GPT-APP",
+          "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1u4VvDiWZvB9w888epMFvKuUHlUOpWXwYEOvhU9g-RWRgap9gDi3hT08KDEGEznI7jA&usqp=CAU",
+          "description": [
+            "Developed Netflix-GPT-App with ReactJS, Redux, Firebase, and TMDB API, showcasing expertise in a diverse and cutting-edge technology stack.",
+            "Implemented Redux for streamlined data flow, ensuring a seamless user interface and viewing experience.",
+            "Utilized Firebase for a robust backend, offering real-time data sync and secure authentication. Integrated TMDB API for a vast and dynamic content catalog, reflecting a commitment to a feature-rich streaming platform."
+          ],
+          "tagline": "Implemented features for browsing and managing movie data to enhance user experience.",
+          "siteLink": "http://netflix-gpt-app-sunilkumaths.vercel.app",
+          "gitLink": "https://github.com/sunilkumarhs/Netflix-GPT-App"
+        },
+        {
+          "bgColor": "orange",
+          "title": "REACT FOOD DELIVERY APP",
+          "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZk7rlTizfevY1-scPy04vlapj1uJ3nzFeTg&s",
+          "description": [
+            "Developed a Swiggy replica using ReactJS and Redux, showcasing expertise in state management and delivering a high-performance, scalable solution.",
+            "Committed to excellence,replicated the Swiggy app with a feature-rich experience, emphasizing modern development practices.",
+            "Styled the application with TailwindCSS, showcasing a modern interface with a sleek aesthetic for optimal user engagement."
+          ],
+          "tagline": "Implemented features like oredering the food based on the restaurant",
+          "siteLink": "https://namaste-react-food-app-sunilkumarhs.vercel.app",
+          "gitLink": "https://github.com/sunilkumarhs/NamasteReact"
+        },
+        {
+          "bgColor": "green",
+          "title": "AGRI-TECH-APP",
+          "imageurl": "https://agrilinks.org/sites/default/files/styles/featured/public/media/image/hackathon.jpg?h=5265ff56",
+          "description": [
+            "Developed a cutting-edge business app using ReactJS and Firebase, emphasizing seamless user experience and secure data access.",
+            "Styled the application with TailwindCSS, showcasing a modern interface with a sleek aesthetic for optimal user engagement.",
+            "Implemented robust authentication and authorization mechanisms with Firebase, ensuring secure access to sensitive business data."
+          ],
+          "tagline": "Implemented features for posting the agri products by farmers and view the products for buyers and farmers has the bonus feature of soil testing, for enhanced growth.",
+          "siteLink": "https://agri-tech-app-sunilkumarhs.vercel.app/",
+          "gitLink": "https://github.com/sunilkumarhs/Agri-Tech-App"
+        },
+        {
+          "bgColor": "blue",
+          "title": "MUSIC-PLAYER-APP",
+          "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTM_5KfyszhoqPrdUTdmXoCdh6DhMQwPDMizQ&s",
+          "description": [
+            "Music Player leverages React.js and Built-in Browser APIs to facilitate smooth storage of music files in local storage via IndexedDB. This ensures users can upload their favorite tracks effortlessly and enjoy uninterrupted playback.",
+            "With the integration of Web Storage API, Music Player retains playback progress even after page reloading. Users can pick up exactly where they left off, enhancing the continuity of their listening experience."
+          ],
+          "tagline": "Implemented features for listening the favorite music's by uploading to local sotrage and repeat, play next, play previous, and deletion of music.",
+          "siteLink": "https://music-player-sunil-kumar-h-ss-projects.vercel.app/",
+          "gitLink": "https://github.com/sunilkumarhs/music_player"
+        }
+      ],
+      "js": [
+        {
+          "bgColor": "blue",
+          "title": "BANKING-APP (USER:sk, PIN:1718)",
+          "imageurl": "https://lvivity.com/wp-content/uploads/2019/05/ba-usability.jpg",
+          "description": [
+            "The banking app boasts an intuitive user interface designed using HTML and CSS, ensuring a seamless user experience.",
+            "JavaScript is leveraged to add dynamic functionalities to the banking app, enabling features like fund transfer, loan requests, account closure, and transaction display.",
+            "Through JavaScript, users can initiate fund transfers between accounts, request loans by providing necessary details, close their accounts securely, and view transaction history."
+          ],
+          "tagline": "Implemented features for banking purpose to enhance user experience.",
+          "siteLink": "https://sunilkumarhs.github.io/BankApp/",
+          "gitLink": "https://github.com/sunilkumarhs/BankApp"
+        },
+        {
+          "bgColor": "green",
+          "title": "MAPTY-APP",
+          "imageurl": "https://repository-images.githubusercontent.com/582046581/ad4f4902-b3d5-40b2-8154-2d8480785ec6",
+          "description": [
+            "Mapty utilizes HTML and CSS to create an interactive mapping interface where users can mark exercise locations such as running or cycling routes.",
+            "Users can mark exercise locations on the map and input exercise details such as type (running or cycling), distance covered, duration, cadence (for cycling), and elevation.",
+            "JavaScript functionalities enable the app to process and display exercise data dynamically on the map."
+          ],
+          "tagline": "Implemented features for marking the exercise with map location to enhance user experience.",
+          "siteLink": "https://sunilkumarhs.github.io/WorkoutMapty/",
+          "gitLink": "https://github.com/sunilkumarhs/WorkoutMapty"
+        },
+        {
+          "bgColor": "red",
+          "title": "PIG-GAME-APP",
+          "imageurl": "https://i.ytimg.com/vi/-NSYFQfRwI4/maxresdefault.jpg",
+          "description": [
+            "The Pig Game app features an interactive game board created using HTML and styled with CSS, providing users with an engaging and visually appealing gaming experience.",
+            "JavaScript powers the game logic and interactivity of the Pig Game app, handling player turns, dice rolls, score calculations, and game flow.",
+            "Players can roll the dice, which triggers random number generation and updates the game board accordingly with the rolled dice value."
+          ],
+          "tagline": "Implemented features for playing pid game to enhance user experience.",
+          "siteLink": "https://sunilkumarhs.github.io/Pig-Game/",
+          "gitLink": "https://github.com/sunilkumarhs/Pig-Game"
+        }
+      ],
+      "web": [
+        {
+          "bgColor": "yellow",
+          "title": "ABLETON-CLONE-APP",
+          "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVefJ4KcOhQQraGxM7ZUr0IgvHLYYJmRJ47g&s",
+          "description": [
+            "The Ableton Clone App meticulously replicates the renowned digital audio workstation's interface using React.js and Tailwind CSS.",
+            "Leveraging Tailwind CSS, the application is crafted to be fully responsive across various devices and screen sizes. This ensures seamless usability and accessibility, allowing users to interact with the interface effortlessly on desktops, tablets, and mobile devices.",
+            "Built with React's state management capabilities and HTML5 Audio API, the Ableton Clone App enables users to import, manipulate, and arrange audio clips within a timeline"
+          ],
+          "siteLink": "https://ableton-clone-app.vercel.app/",
+          "gitLink": "https://github.com/sunilkumarhs/Ableton-Clone"
+        },
+        {
+          "bgColor": "green",
+          "title": "ADVENTURE-APP",
+          "imageurl": "https://img.freepik.com/free-vector/hand-drawn-adventure-landing-page-template_23-2149051045.jpg",
+          "description": [
+            "Adventure-App served as a playground for honing frontend development skills, particularly with ReactJS. Through building this project, I delved deep into React's component-based architecture, state management, and routing.",
+            "TailwindCSS's utility-first approach facilitated rapid styling iterations, enabling me to focus more on functionality rather than getting bogged down by manual CSS tweaks.",
+            "Developing Adventure-App was more than just a coding exercise; it was a journey of continuous learning and improvement."
+          ],
+          "siteLink": "https://clinquant-puffpuff-94116d.netlify.app/",
+          "gitLink": "https://github.com/sunilkumarhs/AdventureWebsite"
+        },
+        {
+          "bgColor": "blue",
+          "title": "NEXT-GEN-APP",
+          "imageurl": "https://i.ytimg.com/vi/_oO4Qi5aVZs/maxresdefault.jpg",
+          "description": [
+            "Next-Gen-App served as a playground for honing frontend development skills, particularly with ReactJS and Vite. Through building this project, I delved deep into React's component-based architecture, state management, and routing.",
+            "TailwindCSS's utility-first approach facilitated rapid styling iterations, enabling me to focus more on functionality rather than getting bogged down by manual CSS tweaks.",
+            "Developing Adventure-App was more than just a coding exercise; it was a journey of continuous learning and improvement."
+          ],
+          "siteLink": "https://capable-piroshki-a4f92d.netlify.app/",
+          "gitLink": "https://github.com/sunilkumarhs/Modren-Bank-App"
+        }
+      ]
+    },
+    "contact": {
+      "mail": "sunilkumarhs974117@gmail.com",
+      "address": "Bengaluru, Karnataka, India",
+      "num": "9741176872"
+    }
+  }
+}
