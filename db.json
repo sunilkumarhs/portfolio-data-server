@@ -61,17 +61,17 @@
         {
           "key": "PROJECTS",
           "value": "21",
-          "speed":"5"
+          "speed":"100"
         },
         {
           "key": "CLIENTS",
           "value": "0",
-          "speed":"5"
+          "speed":"100"
         },
         {
           "key": "PARTNERS",
           "value": "0",
-          "speed":"5"
+          "speed":"100"
         }
       ]
     },
