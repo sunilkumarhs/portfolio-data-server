@@ -55,23 +55,19 @@
       "numDisplay": [
         {
           "key": "CUPS OF TEA",
-          "value": "1718",
-          "speed": "10"
+          "value": "1718"
         },
         {
           "key": "PROJECTS",
-          "value": "21",
-          "speed": "5"
+          "value": "21"
         },
         {
           "key": "CLIENTS",
-          "value": "0",
-          "speed": "5"
+          "value": "0"
         },
         {
           "key": "PARTNERS",
-          "value": "0",
-          "speed": "5"
+          "value": "0"
         }
       ]
     },
