@@ -39,7 +39,9 @@
   "home": {
     "bgImg": "https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg",
     "homeImg1": "https://www.multirecruit.com/wp-content/uploads/2022/05/web-developer-do.png",
+    "homeDarkImg1": "https://images.unsplash.com/photo-1524169358666-79f22534bc6e?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "homeImg2": "https://media.licdn.com/dms/image/D5612AQGCh3sln69vjA/article-cover_image-shrink_720_1280/0/1666950043894?e=2147483647&v=beta&t=PZiVgCkhn84PTTHkW0XWyMQEZ1hsPkHdYa5mTnpM4qQ",
+    "homeDarkImg2": "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "greet1Line1": "Hi 👋",
     "greet1Line2": "I'm Sunil",
     "des1": "A passionate Software developer from India",
