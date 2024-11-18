@@ -197,16 +197,16 @@
       "react": [
         {
           "bgColor": "red",
-          "title": "Netflix-GPT-APP",
+          "title": "CloneNetflix-GPT-APP",
           "imageurl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo1u4VvDiWZvB9w888epMFvKuUHlUOpWXwYEOvhU9g-RWRgap9gDi3hT08KDEGEznI7jA&usqp=CAU",
           "description": [
-            "Developed Netflix-GPT-App with ReactJS, Redux, Firebase, and TMDB API, showcasing expertise in a diverse and cutting-edge technology stack.",
+            "Developed CloneNetflix-GPT-App with ReactJS, Redux, Firebase, and TMDB API, showcasing expertise in a diverse and cutting-edge technology stack.",
             "Implemented Redux for streamlined data flow, ensuring a seamless user interface and viewing experience.",
             "Utilized Firebase for a robust backend, offering real-time data sync and secure authentication. Integrated TMDB API for a vast and dynamic content catalog, reflecting a commitment to a feature-rich streaming platform."
           ],
           "tagline": "Implemented features for browsing and managing movie data to enhance user experience.",
-          "siteLink": "http://netflix-gpt-app-sunilkumaths.vercel.app",
-          "gitLink": "https://github.com/sunilkumarhs/Netflix-GPT-App"
+          "siteLink": "https://clone-flixnet-gpt-app.vercel.app/",
+          "gitLink": "https://clone-flixnet-gpt-app.vercel.app/"
         },
         {
           "bgColor": "orange",
